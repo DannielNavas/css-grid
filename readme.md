@@ -53,3 +53,12 @@ nos permiten crear una grid definir la cantidad de columnas y filas y definir lo
         tamaño minimo y maximo de una celda
     - repeat
         
+## keywords especiales 
+    - fr
+        fraccion para darle alto o ancho a filas y columnas es una fracción de la grid se declara la cantidad de fracciones que se van a usar
+    - min-content
+        ajusta el ancho de la celda para que se tenga la columna lo mas fina que se pueda sin romperla
+    - max-content
+        enzanchar la columna o crecer las filas
+    - auto-fill/ auto-fit
+        ayudan para que la grid ocupen el 100% del tamaño que tienen 
