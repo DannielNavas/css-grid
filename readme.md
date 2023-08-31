@@ -33,3 +33,16 @@ nos permiten crear una grid definir la cantidad de columnas y filas y definir lo
     - justify-content
     - align-content
     - place-content
+
+
+## propiedades de ubicación
+    - grid-column-start
+    - grid-column-end
+    - grid-column
+
+    - grid-row-start
+    - grid-row-end
+    - grid-row
+
+    - grid-area
+        donde inicia y donde termina la fila y la columna
