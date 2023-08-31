@@ -46,3 +46,10 @@ nos permiten crear una grid definir la cantidad de columnas y filas y definir lo
 
     - grid-area
         donde inicia y donde termina la fila y la columna
+
+
+## Funciones especiales
+    - minmax
+        tamaño minimo y maximo de una celda
+    - repeat
+        
