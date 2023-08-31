@@ -18,3 +18,18 @@
     - grid-auto
 
 nos permiten crear una grid definir la cantidad de columnas y filas y definir los espaciados entre las filas y columnas
+
+
+## propiedades de alineación de los items
+    - justify-items
+    - align-items
+    - place-items
+
+    - justify-self
+    - align-self
+    - place-self
+
+## propiedades de alineación del contenedor
+    - justify-content
+    - align-content
+    - place-content
